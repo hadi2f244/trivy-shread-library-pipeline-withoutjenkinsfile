@@ -1,3 +1,8 @@
-@Library('trivy@main') _
+//@Library('trivy@main') _
 
-main()
+library('trivy@main')
+
+main1{
+	HTTP_PROXY = ""
+	APP_NAME = "test"
+}
