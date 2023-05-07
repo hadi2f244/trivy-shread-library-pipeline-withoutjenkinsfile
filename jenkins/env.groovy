@@ -1,2 +1,2 @@
-//SECURITY_SCAN = true
-IGNORE_PKGS = '{"setuptools"}'
+SECURITY_SCAN = true
+IGNORE_PKGS = {"setuptools"}
